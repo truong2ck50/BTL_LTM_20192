@@ -1,0 +1,10 @@
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\bin\Debug\Gamecaro.exe.config
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\bin\Debug\Gamecaro.exe
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\bin\Debug\Gamecaro.pdb
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.csprojAssemblyReference.cache
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.Properties.Resources.resources
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.csproj.GenerateResource.cache
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.csproj.CoreCompileInputs.cache
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.exe
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.pdb
+C:\Users\TruongNhim\source\BTL_LTM_20192\Gamecaro\obj\Debug\Gamecaro.Form1.resources
